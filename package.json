@@ -1,0 +1,41 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.3.1",
+    "@material-ui/icons": "^3.0.1",
+    "apollo-boost": "^0.1.19",
+    "apollo-link-context": "^1.0.9",
+    "axios": "^0.18.0",
+    "graphql": "^14.0.2",
+    "graphql-import": "^0.7.1",
+    "material-ui": "^0.20.2",
+    "react": "^16.6.0",
+    "react-apollo": "^2.2.4",
+    "react-dom": "^16.6.0",
+    "react-flexview": "^4.0.1",
+    "react-responsive": "^6.0.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts-ts": "3.1.0",
+    "simple-flexbox": "^1.2.0",
+    "typeface-roboto": "0.0.54"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "@types/graphql": "^14.0.3",
+    "@types/jest": "^23.3.9",
+    "@types/node": "^10.12.2",
+    "@types/react": "^16.4.18",
+    "@types/react-dom": "^16.0.9",
+    "@types/react-responsive": "^3.0.2",
+    "@types/react-router-dom": "^4.3.1",
+    "node-sass": "^4.9.4",
+    "typescript": "^3.1.5"
+  }
+}
